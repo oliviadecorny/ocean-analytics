@@ -14,6 +14,9 @@ The project is intended to:
 
 The geographic extraction window is approximately 30-46°N and 6°W-36°E. The export workflow also applies the source dataset's `mask` variable so that masked or non-sea grid cells are excluded.
 
+![Alt text](data_med_08.gif)
+![Alt text](january_july_average_temperature.png)
+
 ## Data
 
 Input files are monthly NetCDF files in `data/`, named in the form:
